@@ -192,7 +192,7 @@ the website, in dark theme
 }
 
 /*=============== HEADER ===============*/
-.header {
+/* .header {
   width: 100%;
   background-color: var(--body-color);
   position: fixed;
@@ -200,7 +200,7 @@ the website, in dark theme
   left: 0;
   z-index: var(--z-fixed);
   transition: 0.4s;
-}
+} */
 
 /*=============== NAV ===============*/
 .nav {
